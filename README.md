@@ -1,12 +1,14 @@
 # FoodVision-AI 
 
-An image classification app that identifies food items from photos using deep learning. Built with TensorFlow and deployed as an interactive Streamlit app.
+An image classification app that identifies food items from photos. Built with TensorFlow and deployed as an interactive Streamlit app.
 
 ## What it does
 
 Upload a photo of food, and the model predicts what dish it is — along with a confidence score. Trained to recognize **10 food categories**:
 
-`apple_pie` · `bibimbap` · `cannoli` · `edamame` · `falafel` · `french_toast` · `ice_cream` · `ramen` · `sushi` · `tiramisu`
+## Dataset
+
+Food-101 Tiny dataset (https://www.kaggle.com/datasets/msarmi9/food101tiny) (10 classes, ~2,000 images) 
 
 ## Model
 
