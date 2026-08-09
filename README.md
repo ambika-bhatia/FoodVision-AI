@@ -1,9 +1,8 @@
 # FoodVision-AI 
 
+🔗 **[Try the live app here](https://foodvision-ai.streamlit.app/)**
+
 An image classification app that identifies food items from photos. Built with TensorFlow and deployed as an interactive Streamlit app.
-
-## What it does
-
 Upload a photo of food, and the model predicts what dish it is — along with a confidence score. Trained to recognize **10 food categories**:
 
 ## Dataset
